@@ -45,3 +45,8 @@ body {
 .nav-spacer{
     margin-bottom: 7em;
 }
+
+.is-dark li{
+    color: white;
+    list-style-type: katakana;
+}
